@@ -7,8 +7,3 @@ packages:
   gitUrl: https://github.com/ArtiKhareNew
   gitUsername: ArtiKhareNew
   gitBranch: main
-- name: AddPublicService
-  gitServerName: src_shared_GitLabCtrl_Arti
-  gitUrl: https://gitlab.com/ArtiKhareGitlab
-  gitUsername: ArtiKhareGitlab
-  gitBranch: master
