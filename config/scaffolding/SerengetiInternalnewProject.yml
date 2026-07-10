@@ -3,4 +3,7 @@ info:
   model: int-scaffold
 packages:
 - name: SerengetiInternalnewProject
-  gitBranch: master
+  gitServerName: srcGithubCtrl_Arti
+  gitUrl: https://github.com/ArtiKhareNew
+  gitUsername: ArtiKhareNew
+  gitBranch: main
